@@ -5,3 +5,7 @@ Criação do desafio passado pela empresa BUD
 
 ![image](https://user-images.githubusercontent.com/65436800/146192223-07354998-e0dd-4d93-b0df-1dd782de0f51.png)
 
+## Tecnologia
+HTML;
+CSS;
+JS
