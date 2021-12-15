@@ -9,3 +9,6 @@ Criação do desafio passado pela empresa BUD
 - HTML;
 - CSS;
 - JS
+
+## Deploy
+<a href="desafio-bud.netlify.app"> desafio-bud.netlify.app </a>
