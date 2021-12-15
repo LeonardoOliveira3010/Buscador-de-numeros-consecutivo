@@ -11,4 +11,4 @@ Criação do desafio passado pela empresa BUD
 - JS
 
 ## Deploy
-<a href="desafio-bud.netlify.app"> desafio-bud.netlify.app </a>
+desafio-bud.netlify.app
